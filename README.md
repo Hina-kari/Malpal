@@ -2,4 +2,4 @@
 Malware/Botnet For Educational purposes / Proof of concept 
 
 
-![Drawing](https://github.com/Hina-kari/Malpal/assets/141752924/da173603-5918-43f2-99c8-6a9c92e67f84)
+![Drawing](https://github.com/Hina-kari/Malpal/assets/141752924/fe0dd717-8f69-4ebd-b3d1-07067bf4ed29)
