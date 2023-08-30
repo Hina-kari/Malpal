@@ -1,6 +1,10 @@
 # Malpal
 Malware/Botnet For Educational purposes / Proof of concept 
 
+# To-Do
+Admin/Owner/Manager GUI
+Malware builder
+PGP encryption between server and GUI (decrypt at GUI and encrypt at server)
 
 Both Gui's/C# work is free but the server shall not be public.
 
