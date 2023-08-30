@@ -2,6 +2,7 @@
 Malware/Botnet For Educational purposes / Proof of concept 
 
 # To-Do
+
 Admin/Owner/Manager GUI
 Malware builder
 PGP encryption between server and GUI (decrypt at GUI and encrypt at server)
