@@ -15,5 +15,6 @@ namespace Customer_GUI
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+        public static string SERVER = "127.0.0.1";
     }
 }

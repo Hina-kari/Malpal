@@ -9,3 +9,17 @@ C:\Users\PC\Documents\GitHub\Malpal\Gui Customer\Customer-GUI\obj\Debug\Customer
 C:\Users\PC\Documents\GitHub\Malpal\Gui Customer\Customer-GUI\obj\Debug\Customer-GUI.csproj.CoreCompileInputs.cache
 C:\Users\PC\Documents\GitHub\Malpal\Gui Customer\Customer-GUI\obj\Debug\Customer-GUI.exe
 C:\Users\PC\Documents\GitHub\Malpal\Gui Customer\Customer-GUI\obj\Debug\Customer-GUI.pdb
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\bin\Debug\Customer-GUI.exe.config
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\bin\Debug\Customer-GUI.exe
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\bin\Debug\Customer-GUI.pdb
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\bin\Debug\Leaf.xNet.dll
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\bin\Debug\Leaf.xNet.xml
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\obj\Debug\Customer-GUI.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\obj\Debug\Customer-GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\obj\Debug\Customer_GUI.Form1.resources
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\obj\Debug\Customer_GUI.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\obj\Debug\Customer-GUI.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\obj\Debug\Customer-GUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\obj\Debug\Customer-GUI.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\obj\Debug\Customer-GUI.exe
+C:\Users\PC\Documents\GitHub\Malpal\GUI\Customer-GUI\obj\Debug\Customer-GUI.pdb
