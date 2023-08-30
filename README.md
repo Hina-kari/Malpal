@@ -11,4 +11,5 @@ You can purchase a version of this work once its finished.
 
 Customer GUI (V 1.0) NOT FINISHED WIP
 
-![image](https://github.com/Hina-kari/Malpal/assets/141752924/fd558d50-adf4-41c5-8ccc-06ddfcb600a7)
+![image](https://github.com/Hina-kari/Malpal/assets/141752924/de85fe3e-8281-4429-8449-902e19a4af04)
+
