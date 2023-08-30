@@ -9,9 +9,10 @@ A tool to Build Malpal, Distribrute Malpal and Managing Malpal.
 
 ## Gui showcase (WIP)
 
-![image](https://github.com/Hina-kari/Malpal/assets/141752924/de85fe3e-8281-4429-8449-902e19a4af04)
+![image](https://github.com/Hina-kari/Malpal/assets/141752924/73ee5adb-38ec-4342-9d12-9e7193e30819)
+
     
-    This is a very early showcase of the Gui which isnt hooked up to a server yet.
+This is a very early showcase of the Gui which isnt hooked up to a server yet.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
