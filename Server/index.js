@@ -30,6 +30,16 @@ let connectedCount = 0;
 //  console.log(enc);   //for debug
 //  console.log(document.getElementById('userPwd').value);   // for debug
 //}
+// set up rate limiter: maximum of five requests per minute
+
+var RateLimit = require('express-rate-limit');
+var limiter = RateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 100, // max 100 requests per windowMs
+});
+
+// apply rate limiter to all requests
+app.use(limiter);
 
 app.post('/Login', (req, res) => {
   req.headers.get("Hardware-id"); // Each machine has a unique Hardware id 
@@ -49,9 +59,15 @@ app.post('/Login', (req, res) => {
 
 app.post('/Register', (req, res) => {
   req.headers.get('Hardware-id');
+  req.headers.get("Build-id");
   req.body.user.usernamehash
   req.body.user.passwordhash
-  res.send("Register succesful")
+  req.body.user.secrethash    // When they register this will be saved on a text file on their desktop
+                              // This is how they can get password resets in the future along with their HWID
+                              // if they have the secret and their HWID is the same then let them reset their password
+  
+                              res.send("Register succesful")
+
 })
 app.get('/launch', (req, res) => {
     headers = req.headers;
