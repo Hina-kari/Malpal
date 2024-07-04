@@ -3,7 +3,7 @@
 
 A tool to Build Malpal, Distribrute Malpal and Managing Malpal.
 
-https://www.discord.oxo.ninja
+[https://www.discord.oxo.ninja](https://discord.gg/pdVu5Naubr)
 
 ## Proof of concept 
 
